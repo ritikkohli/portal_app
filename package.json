@@ -1,0 +1,22 @@
+{
+  "name": "portal_app",
+  "version": "1.0.0",
+  "description": "a job portal plateform backend service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritikkohli/portal_app.git"
+  },
+  "author": "ritik kohli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritikkohli/portal_app/issues"
+  },
+  "homepage": "https://github.com/ritikkohli/portal_app#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
